@@ -8,6 +8,8 @@ As an Android engineer with over 12 years experience, I'm eager to expand my ski
 - Learn the fundamentals of SwiftUI for building user interfaces.
 - Create a portfolio of SwiftUI projects showcasing my progress.
 
+## Progress
+
 <details>
 <summary>Introduction to Swift</summary>
 
