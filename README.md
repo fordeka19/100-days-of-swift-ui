@@ -1,6 +1,6 @@
 <h1 align="center">100 Days of SwiftUI</h1>
 
-This repository documents my progress as I work through [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) by Paul Hudson at HackingWithSwift. It consists of daily projects and tasks designed to teach Swift and SwiftUI from scratch.
+This repository documents my progress as I work through [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) by Paul Hudson at HackingWithSwift. It consists of daily tasks and projects designed to teach Swift and SwiftUI from scratch.
 
 As an Android engineer with over 12 years experience, I'm eager to expand my skills into new areas, including the iOS ecosystem. Through this learning, I aim to:
 
