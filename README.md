@@ -22,6 +22,8 @@ As an Android engineer with over 12 years experience, I'm eager to expand my ski
 - [Day 7](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/Day07_Functions_Part1.playground): Functions, parameters, and return values
 - [Day 8](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/Day08_Functions_Part2.playground): Default values, throwing functions
 - [Day 9](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/Day09_Closures.playground): Closures, passing functions into functions
+- [Day 10](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/Day10_Structs_Part1.playground): Structs, computed properties, and property observers
+- [Day 11](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/Day11_Structs_Part2.playground): Access control, static properties and methods
 
 </details>
 
@@ -33,6 +35,7 @@ As an Android engineer with over 12 years experience, I'm eager to expand my ski
 - [Day 6](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/checkpoints/Day06_Checkpoint03.playground): Checkpoint 3
 - [Day 8](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/checkpoints/Day08_Checkpoint04.playground): Checkpoint 4
 - [Day 9](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/checkpoints/Day09_Checkpoint05.playground): Checkpoint 5 *
+- [Day 11](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/checkpoints/Day11_Checkpoint06.playground): Checkpoint 6
 
 * Looks like the even-day streak didn't last! I'd thought it was an intentional pattern up until Day 9, gotta keep us on our toes I guess! :D
 
