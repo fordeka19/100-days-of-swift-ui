@@ -12,6 +12,7 @@ As an Android engineer with over 12 years experience, I'm eager to expand my ski
 
 <details>
 <summary>Introduction to Swift</summary>
+
 - [Day 1](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/Day01_DataTypes_1.playground): Variables, constants, strings, and numbers
 - [Day 2](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/Day02_DataTypes_2.playground): Booleans, string interpolation
 - [Day 3](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/Day03_ComplexDataTypes.playground): Arrays, dictionaries, sets, and enums
@@ -21,10 +22,9 @@ As an Android engineer with over 12 years experience, I'm eager to expand my ski
 - [Day 7](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/Day07_Functions_1.playground): Functions, parameters, and return values
 - [Day 8](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/Day08_Functions_2.playground): Default values, throwing functions
 - [Day 9](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/Day09_Closures.playground): Closures, passing functions into functions
-- [Day 10](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/Day10_Structs_1.playground): Structs, computed properties, and property observers
+- [Day 10](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/Day10_Structs_1.playground): Structs, computed properties, and property
 - [Day 11](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/Day11_Structs_2.playground): Access control, static properties and methods
 - [Day 12](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/Day12_Classes_Inheritance.playground): Classes, inheritance
-
 </details>
 
 <details>
