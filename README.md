@@ -12,18 +12,18 @@ As an Android engineer with over 12 years experience, I'm eager to expand my ski
 
 <details>
 <summary>Introduction to Swift</summary>
-
-- [Day 1](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/Day01_VariablesConstants.playground): Variables, constants, strings, and numbers
-- [Day 2](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/Day02_BooleansStringInterpolation.playground): Booleans, string interpolation
+- [Day 1](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/Day01_DataTypes_1.playground): Variables, constants, strings, and numbers
+- [Day 2](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/Day02_DataTypes_2.playground): Booleans, string interpolation
 - [Day 3](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/Day03_ComplexDataTypes.playground): Arrays, dictionaries, sets, and enums
 - [Day 4](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/Day04_TypeAnnotations.playground): Type annotations
 - [Day 5](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/Day05_Conditions.playground): If, switch, and the ternary operator
 - [Day 6](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/Day06_Loops.playground): Loops
-- [Day 7](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/Day07_Functions_Part1.playground): Functions, parameters, and return values
-- [Day 8](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/Day08_Functions_Part2.playground): Default values, throwing functions
+- [Day 7](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/Day07_Functions_1.playground): Functions, parameters, and return values
+- [Day 8](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/Day08_Functions_2.playground): Default values, throwing functions
 - [Day 9](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/Day09_Closures.playground): Closures, passing functions into functions
-- [Day 10](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/Day10_Structs_Part1.playground): Structs, computed properties, and property observers
-- [Day 11](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/Day11_Structs_Part2.playground): Access control, static properties and methods
+- [Day 10](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/Day10_Structs_1.playground): Structs, computed properties, and property observers
+- [Day 11](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/Day11_Structs_2.playground): Access control, static properties and methods
+- [Day 12](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/Day12_Classes_Inheritance.playground): Classes, inheritance
 
 </details>
 
@@ -36,6 +36,7 @@ As an Android engineer with over 12 years experience, I'm eager to expand my ski
 - [Day 8](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/checkpoints/Day08_Checkpoint04.playground): Checkpoint 4
 - [Day 9](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/checkpoints/Day09_Checkpoint05.playground): Checkpoint 5 *
 - [Day 11](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/checkpoints/Day11_Checkpoint06.playground): Checkpoint 6
+- [Day 12](https://github.com/fordeka19/100-days-of-swift-ui/tree/master/Days1-14_IntroToSwift/checkpoints/Day12_Checkpoint07.playground): Checkpoint 7
 
 * Looks like the even-day streak didn't last! I'd thought it was an intentional pattern up until Day 9, gotta keep us on our toes I guess! :D
 
